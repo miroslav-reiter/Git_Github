@@ -1,0 +1,1 @@
+toto je konfiguračný súbor
