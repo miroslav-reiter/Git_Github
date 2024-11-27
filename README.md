@@ -34,7 +34,7 @@ rm -r priecinok
 rm subor.txt odstráni súbor subor.txt.
 rm -r priecinok odstráni priečinok priecinok spolu s jeho obsahom.
 
-**4. ✏️ touch [súbor] **– Vytvorí nový prázdny súbor.
+**4. ✏️ touch [súbor]** – Vytvorí nový prázdny súbor.
 
 ```bash  
 touch novy_subor.txt  
@@ -51,14 +51,14 @@ cat subor.txt
 
 Tento príkaz vypíše obsah súboru subor.txt do terminálu.
 
-**6. 📑 mkdir [priečinok] **– Vytvorí nový priečinok.
+**6. 📑 mkdir [priečinok]** – Vytvorí nový priečinok.
 
 ```bash  
 mkdir nove_dokumenty  
 ```
 Tento príkaz vytvorí priečinok s názvom nove_dokumenty.
 
-**7. 🛠️ cp [súbor] [cesta] **– Skopíruje súbor alebo priečinok.
+**7. 🛠️ cp [súbor] [cesta] ** – Skopíruje súbor alebo priečinok.
 
 ```bash
 cp subor.txt /domov  
@@ -68,7 +68,7 @@ cp -r priecinok /domov
 cp subor.txt /domov skopíruje súbor subor.txt do adresára /domov.
 cp -r priecinok /domov skopíruje priečinok priecinok a jeho obsah do /domov.
 
-**8. 🔄 mv [súbor] [cesta] **– Premiestni alebo premenuje súbor.
+**8. 🔄 mv [súbor] [cesta]** – Premiestni alebo premenuje súbor.
 
 ```bash
 mv subor.txt /domov  
@@ -130,14 +130,14 @@ echo "Tento text bude v súbore" > subor.txt
 Prvý príkaz vypíše text Ahoj, svet! do terminálu.
 Druhý príkaz zapíše text do súboru subor.txt.
 
-**16. 🧹 histor**y – Zobrazí históriu príkazov.
+**16. 🧹 history** – Zobrazí históriu príkazov.
 
 ```bash
 history  
 ```
 Tento príkaz zobrazí zoznam všetkých príkazov, ktoré boli vykonané v termináli.
 
-17. ⚙️ top – Zobrazí aktuálne bežiace procesy.
+**17. ⚙️ top** – Zobrazí aktuálne bežiace procesy.
 
 ```bash
 top  
@@ -231,7 +231,7 @@ git push origin main
 
 Tento príkaz odošle tvoje zmeny zo lokálnej vetvy main na vzdialený repozitár origin.
 
-**9. ⬅️ git pull: **Stiahne najnovšie zmeny zo vzdialeného repozitára do lokálneho repozitára.
+**9. ⬅️ git pull:** Stiahne najnovšie zmeny zo vzdialeného repozitára do lokálneho repozitára.
  
 ```bash
 git pull origin main
