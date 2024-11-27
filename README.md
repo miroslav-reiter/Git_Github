@@ -215,7 +215,7 @@ git log
 
 Tento príkaz zobrazuje históriu commitov s podrobnosťami ako dátum, autor a správa commit-u.
 
-**7. 🏠 git checkout [vetva]: **Prejde do inej vetvy v repozitári alebo obnoví súbory do predchádzajúcej verzie.
+**7. 🏠 git checkout [vetva]:** Prejde do inej vetvy v repozitári alebo obnoví súbory do predchádzajúcej verzie.
  
 ```bash
 git checkout develop
@@ -283,7 +283,7 @@ git config --global user.name "Ján Novák"
 
 Tento príkaz nastaví tvoje meno ako Ján Novák pre všetky tvoje projekty, ktoré používajú Git.
 
-**15. 📈 git diff: **Zobrazuje rozdiely medzi aktuálnym stavom súborov a posledným commitom.
+**15. 📈 git diff:** Zobrazuje rozdiely medzi aktuálnym stavom súborov a posledným commitom.
  
 ```bash
 git diff
