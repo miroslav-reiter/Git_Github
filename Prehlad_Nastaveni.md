@@ -1,0 +1,1 @@
+zde prikazy pro nastaveni
