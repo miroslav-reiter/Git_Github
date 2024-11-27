@@ -1,0 +1,6 @@
+./configure \
+    --prefix=/users/p6095/R/${R_VERSION} \
+    --enable-R-shlib \
+    --enable-memory-profiling \
+    --with-readline=no \
+    --with-x=no
