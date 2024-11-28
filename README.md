@@ -166,7 +166,7 @@ wget https://example.com/subor.txt
 ```
 Tento príkaz stiahne súbor subor.txt z adresy example.com.
 
-## Zoznam základných Gut príkazov s vysvetleniami
+## Zoznam základných Git príkazov s vysvetleniami
 
 **1. 🖥️ git init:** Inicializuje nový Git repozitár v aktuálnom adresári.
  
