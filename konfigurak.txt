@@ -1,0 +1,15 @@
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+user.name=Miroslav Reiter
+user.email=miroslav.reiter@gmail.com
+core.editor='C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+gui.recentrepo=C:/Users/miros/Desktop/repozitar
+alias.st=status
+alias.co=checkout
+alias.br=branch
+alias.cm=commit
+alias.lg=log --oneline --graph --decorate --all
+color.ui=auto
+init.defaultbranch=main
