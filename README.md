@@ -1,4 +1,4 @@
-# 😺 Online kurz Git a Github
+# 🐙 Online kurz Git a Github
 Materiály k online kurzu Git a GitHub
 
 
