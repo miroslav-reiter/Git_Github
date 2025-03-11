@@ -52,7 +52,13 @@ Poznámka pod čiarou: Tu je veta s poznámkou pod čiarou. [^1]
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.  
-> Radí o rizikách alebo negatívnych dôsledkoch určitých činností.  
+> Radí o rizikách alebo negatívnych dôsledkoch určitých činností.
+
+> :warning: **Warning:** Nestláčajte veľké červené tlačidlo.
+
+> :memo: **Note:** Východy slnka sú krásne.
+
+> :bulb: **Tip:** Nezabudnite si vážiť maličkosti v živote.
 
 ## Zoznam základných Bash príkazov s vysvetleniami
 Tu je zoznam základných Bash príkazov s konkrétnymi vysvetleniami:
