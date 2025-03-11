@@ -21,7 +21,14 @@ Materiály k online kurzu Git a GitHub
 - [x] Napíšte článok na blogu
 - [x] Pripravte design manuál
 - [ ] Aktualizujte hlavnú webovú stránku
-- [ ] Vytvorte stránku kontakt   
+- [ ] Vytvorte stránku kontakt
+
+### Formátovanie Textu
+Dolný index:  H~2~O     
+Horný index: X^2^  
+Poznámka pod čiarou: Tu je veta s poznámkou pod čiarou. [^1] 
+[^1]: Toto je poznámka pod čiarou.  
+Prečiarknuté: ~~Tento svet je plochy. Svet je rovina~~       
 
 ### Markdown Upozornenia
 > [!NOTE]
