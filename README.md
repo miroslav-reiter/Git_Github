@@ -1,7 +1,29 @@
 # 🐙 Online kurz Git a Github
 Materiály k online kurzu Git a GitHub
 
-## Markdown Upozornenia
+## Markdown rozšírená syntax
+
+| Prvok                                              | Syntax Markdown                                                                                            |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Tabuľka                                            | \| Syntax \| Popis \| \| ----------- \| ----------- \| \| Header \| Titulok \| \| Paragraf \| Text \|      |
+| Ohraničený blok kódu                                 | ``` {   "krstneMeno": "Adam",   "priezvisko": "Sangala",   "vek": 35 } ```                               |
+| Poznámka pod čiarou                                | Tu je veta s poznámkou pod čiarou. [^1] [^1]: Toto je poznámka pod čiarou.                                 |
+| ID nadpisu                                         | ### Môj skvelý nadpis {#vlastne-id}                                                                        |
+| Zoznam definícií                                   | termin : definicia                                                                                         |
+| Prečiarknuté                                       | ~~Tento svet je plochy. Svet je rovina~~                                                                   |
+| Zoznam úloh                                        | - [x] Napíšte článok na blogu - [ ] Aktualizujte hlavnú webovú stránku - [ ] Vytvorte stránku kontakt      |
+| Emoji                                              | To je vtipné! :joy: 👍 😎                                                                                 |
+| Zvýraznite                                         | Musím zdôrazniť tieto ==veľmi dôležité slová==.                                                            |
+| Dolný index                                        | H~2~O                                                                                                      |
+| Horný index                                        | X^2^                                                                                                       |
+
+### Zoznam úloh (Tasklist a Checklist)   
+- [x] Napíšte článok na blogu
+- [x] Pripravte design manuál
+- [ ] Aktualizujte hlavnú webovú stránku
+- [ ] Vytvorte stránku kontakt   
+
+### Markdown Upozornenia
 > [!NOTE]
 > Useful information that users should know, even when skimming content.  
 > Užitočné informácie, ktoré by používatelia mali vedieť aj pri prezeraní obsahu.  
