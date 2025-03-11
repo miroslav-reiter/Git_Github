@@ -13,7 +13,7 @@ Materiály k online kurzu Git a GitHub
 | Prečiarknuté                                       | ~~Tento svet je plochy. Svet je rovina~~                                                                   |
 | Zoznam úloh                                        | - [x] Napíšte článok na blogu - [ ] Aktualizujte hlavnú webovú stránku - [ ] Vytvorte stránku kontakt      |
 | Emoji                                              | To je vtipné! :joy: 👍 😎                                                                                 |
-| Zvýraznite                                         | Musím zdôrazniť tieto ==veľmi dôležité slová==.                                                            |
+| Zvýraznenie                                        | Musím zdôrazniť tieto ==veľmi dôležité slová==.                                                            |
 | Dolný index                                        | H~2~O                                                                                                      |
 | Horný index                                        | X^2^                                                                                                       |
 
@@ -26,10 +26,11 @@ Materiály k online kurzu Git a GitHub
 ### Formátovanie Textu
 Dolný index:  H~2~O     
 Horný index: X^2^  
+Prečiarknuté: ~~Tento svet je plochy. Svet je rovina~~       
+Zvýraznenie: Musím zdôrazniť tieto ==veľmi dôležité slová==.     
 Poznámka pod čiarou: Tu je veta s poznámkou pod čiarou. [^1] 
 [^1]: Toto je poznámka pod čiarou.  
-Prečiarknuté: ~~Tento svet je plochy. Svet je rovina~~       
-
+ 
 ### Markdown Upozornenia
 > [!NOTE]
 > Useful information that users should know, even when skimming content.  
