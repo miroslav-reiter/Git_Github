@@ -1,6 +1,26 @@
 # 🐙 Online kurz Git a Github
 Materiály k online kurzu Git a GitHub
 
+## Markdown Upozornenia
+> [!NOTE]
+> Useful information that users should know, even when skimming content.  
+> Užitočné informácie, ktoré by používatelia mali vedieť aj pri prezeraní obsahu.  
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.  
+> Užitočné rady, ako robiť veci lepšie alebo jednoduchšie.  
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.  
+> Kľúčové informácie, ktoré používatelia potrebujú vedieť, aby dosiahli svoj cieľ.  
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.  
+> Naliehavé informácie, ktoré si vyžadujú okamžitú pozornosť používateľa, aby sa predišlo problémom.  
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.  
+> Radí o rizikách alebo negatívnych dôsledkoch určitých činností.  
 
 ## Zoznam základných Bash príkazov s vysvetleniami
 Tu je zoznam základných Bash príkazov s konkrétnymi vysvetleniami:
