@@ -25,6 +25,14 @@ Poznámka pod čiarou: Tu je veta s poznámkou pod čiarou. [^1]
 | 7 | Prešovský	| SK-PV	| 827 028 |	8 973,9 |	92 |	665 |	23 |	13 |	Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou |
 | 8 | **Košický**	| SK-KI	| 802 092 |	6 754,5 |	119 |	440 |	17 |	11 | Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov |
 
+| Meno | **Priezvisko** | Email | Kontakt |
+|------|:--------------:|-------|:-------:|
+| Data |      Data      | Data  | Data    |
+| Data |    **Data**    | Data  | Data    |
+| Data |      Data      | Data  | Data    |
+| Data |      Data      | Data  | Data    |
+| Data |      Data      | Data  | Data    |
+
 # Markdown Upozornenia
 > [!NOTE]
 > Useful information that users should know, even when skimming content.  
